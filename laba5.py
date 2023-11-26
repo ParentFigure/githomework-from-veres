@@ -141,3 +141,5 @@ if __name__ == "__main__":
     print(f"Perimeter: {polynom1.perimeter()}")
     print(f"Longest Diagonal: {polynom1.longest_diagonal()}")
     print(f"{polynom1}")
+
+#MADE SOME COOL CHANGES!
